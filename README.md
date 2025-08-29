@@ -1,8 +1,9 @@
-# MoBAIWL Project Monorepo
+# MoBAIWL
 
-Welcome to the **MoBAIWL Project** monorepo.
+Welcome to the **MoBAIWL Project**.
 
-This monorepo contains all projects related to the MoBAIWL initiative, organized in a single repository for easier development and collaboration.
+This repository serves as the **main entry point** for the MoBAIWL initiative.  
+Work carried out within the project is organized into **independent submodules**, each hosted in its own repository with a separate history.  
 
 ## 🚀 About the MoBAIWL Project
 
@@ -21,3 +22,9 @@ The project relies on a team of permanent researchers whose skills are complemen
 - Clément Elvira, Centralesupélec
 - Cédric Herzet, ENSAI
 - Philippe Mary, INSA Rennes
+
+---
+To clone this repository along with all submodules, use:
+```bash
+git clone --recurse-submodules https://github.com/nklaimi01/MoBAIWL.git
+```
