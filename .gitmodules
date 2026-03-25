@@ -1,3 +1,6 @@
 [submodule "Mpnet_PGA_hybridMIMO_SPAWC25"]
 	path = Mpnet_PGA_hybridMIMO_SPAWC25
 	url = https://github.com/nklaimi01/Mpnet_PGA_hybridMIMO_SPAWC25.git
+[submodule "MOMPnet_VTCSpring2026"]
+	path = MOMPnet_VTCSpring2026
+	url = https://github.com/nklaimi01/MOMPnet_VTCSpring2026.git
